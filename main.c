@@ -1,10 +1,3 @@
-/*
- * ae.cpp
- *
- *  Created on: Jan 25, 2015
- *      Author: Pimenta
- */
-
 #include <stdio.h>
 
 #include "BMPFILE.h"
